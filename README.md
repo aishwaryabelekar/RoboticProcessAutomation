@@ -11,7 +11,7 @@ Data Processing:
 Processes the data obtained from the SQL query, including details about installations, chief engineers, job dates, job GUIDs, row numbers, etc.
 Vessel Position Data:
 
-Retrieves vessel position data from an external API (Polestar Global API) and extracts relevant information such as ship names, longitudes, and timestamps.
+Retrieves vessel position data from an external API and extracts relevant information such as ship names, longitudes, and timestamps.
 Email Notification:
 
 Sends email notifications to chief engineers under specific conditions, such as when certain criteria related to the vessel position, job details, and previous tests are met.
